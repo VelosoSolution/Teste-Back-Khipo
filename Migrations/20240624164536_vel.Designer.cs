@@ -13,7 +13,7 @@ namespace Teste.Migrations
 {
     [DbContext(typeof(DbContextTeste))]
     [Migration("20240624164536_vel")]
-    partial class vel
+    partial class Vel
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
